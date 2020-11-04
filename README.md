@@ -16,7 +16,7 @@ This starter contains the content types and configuration to get you up and runn
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/strapi/strapi-starter-blog.git
+git clone https://github.com/zhumeisongsong/strapi-legacy-blog.git
 cd strapi-starter-blog
 ```
 
